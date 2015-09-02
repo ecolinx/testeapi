@@ -60,8 +60,6 @@
     </Reference>
   </ItemGroup>
 
-  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
-  
   <ProjectExtensions>
     <MonoDevelop>
       <Properties>
